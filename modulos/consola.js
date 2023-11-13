@@ -1,3 +1,4 @@
+console.clear()
 var tabla = [
   {
     a: 1,
